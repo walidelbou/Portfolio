@@ -18,20 +18,20 @@ function Home2() {
               Présentation
             </h1>
             <p className="home-about-body">
-              Je suis très intéressé par la programmation et les nouvelles technologies web.
+              Je suis très intéressé par la programmation et les nouvelles technologies Data science.
 
               <br />
               <br />Je maîtrise évidement les classiques comme
               <i>
-                <b className="purple"> C++, Javascript et Python. </b>
+                <b className="purple"> Python , Javascript,C++. </b>
               </i>
               <br />
               <br />
-              Mes domaines d'intérêt sont la création de  &nbsp;
+              Mes interets principaux dans ce domaine sont :  &nbsp;
               <i>
-                <b className="purple">nouvelles technologies et produits Web{" "}</b>, ainsi que les domaines liés à {" "}
+                <b className="purple">Machine learning {" "}</b>, ainsi que les domaines liés à {" "}
                 <b className="purple">
-                 l'apprentissage en profondeur et au traitement du langage naturel.
+                 l'apprentissage en profondeur et au traitement de la Donnee.
                 </b>
               </i>
             
