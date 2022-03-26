@@ -28,21 +28,15 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiAngularSimple />
-      </Col>
+    
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiSpring />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiTensorflow />
-      </Col>
+      
+      
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
